@@ -18,7 +18,7 @@ This repository contains automated test scripts for validating flight booking fu
 
 ## 🛠️ Prerequisites
 - Java JDK 21
-- Maven 3.8+
+- Maven 3.8.6+
 - Chrome browser
   
 ## 🚀 Installation
